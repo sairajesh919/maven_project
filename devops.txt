@@ -1,0 +1,6 @@
+demonstrate how to create  and manage a scrum projectin jira.the project should include issue creation,sprint management and workflow customization
+create a neew project named"roll number"using the scrum template
+add atleast three issues of different types(story,bug,task)
+create and start a sprint,then move issuses through different statuses(to do,inprogrss,done)
+add a new status called"code review"in the workflow and verify it appers on the board
+generate and view a sprint report after completing the sprint
